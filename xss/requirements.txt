@@ -1,0 +1,4 @@
+flask
+apscheduler
+selenium
+mysql-connector-python
